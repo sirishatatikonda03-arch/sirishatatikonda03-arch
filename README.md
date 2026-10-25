@@ -7,7 +7,7 @@ I write Embedded C for ARM microcontrollers and connect sensors, displays and ne
 - 🔧 Currently: building projects on LPC2129 / LPC2148 and ESP32
 - 🚗 Interested in: automotive embedded systems (CAN), IoT, real-time firmware
 - 🌐 Portfolio: [sirishatatikonda03-arch.github.io](https://sirishatatikonda03-arch.github.io)
-- 📫 Reach me: sirishatatikonda26@gmail.com · [LinkedIn](https://www.linkedin.com/in/sirisha-tatikonda-5087273b5)
+- 📫 Reach me: sirishatatikonda03@gmail.com · [LinkedIn](https://www.linkedin.com/in/sirisha-tatikonda-5087273b5)
 
 ---
 
@@ -56,4 +56,4 @@ I write Embedded C for ARM microcontrollers and connect sensors, displays and ne
 
 ---
 
-📫 **Connect:** [Email](mailto:sirishatatikonda26@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sirisha-tatikonda-5087273b5) · [Portfolio](https://sirishatatikonda03-arch.github.io)
+📫 **Connect:** [Email](mailto:sirishatatikonda03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sirisha-tatikonda-5087273b5) · [Portfolio](https://sirishatatikonda03-arch.github.io)
